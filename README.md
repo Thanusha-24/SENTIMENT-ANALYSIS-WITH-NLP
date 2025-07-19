@@ -112,6 +112,6 @@ Pandas & NumPy
 Matplotlib (optional for visualization)
 
 📁 Files Included
-sentiment_analysis_task2.ipynb: The main Jupyter notebook containing preprocessing, model implementation, and evaluation.
+SENTIMENT ANALYSIS WITH NLP.ipynb:The main Jupyter notebook containing preprocessing, model implementation, and evaluation.
 
-sentiment_analysis_output.jpg: A screenshot showing the evaluation metrics output.
+sentiment-1.jpg,sentiment-2.jpg: A screenshot showing the evaluation metrics output.

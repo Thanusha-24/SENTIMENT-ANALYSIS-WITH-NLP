@@ -115,3 +115,9 @@ Matplotlib (optional for visualization)
 SENTIMENT ANALYSIS WITH NLP.ipynb:The main Jupyter notebook containing preprocessing, model implementation, and evaluation.
 
 sentiment-1.jpg,sentiment-2.jpg: A screenshot showing the evaluation metrics output.
+
+# OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/99e62de1-ec40-4cf5-8ab8-b221aa342e2c)
+
+![Image](https://github.com/user-attachments/assets/03ce7852-38dd-45e2-905c-898849498e28)
